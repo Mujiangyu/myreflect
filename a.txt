@@ -1,0 +1,5 @@
+name=norman
+age=23
+gender=男
+height=174.3
+hobby=music
